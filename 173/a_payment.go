@@ -10,5 +10,5 @@ func main() {
 }
 
 func solve(n int) int {
-	return (1000 - n%1000) % 1000
+	return (1000 - n % 1000) % 1000
 }
