@@ -1,1 +1,1 @@
-# AtCorder log
+# atcorder-logs
